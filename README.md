@@ -5,7 +5,7 @@
 
 > 안녕하세요! **"배움에 열정이 있고, 문제 해결에 도전하는"** 백엔드 개발자 송예림입니다.<br />
 국비 과정 동안 Spring, Oracle, HTML 등을 활용한 웹 서비스 개발 프로젝트에 참여하며 실무에 가까운 경험을 쌓았습니다.<br />
-> 특히 재난 정보 시각화 R-Dash 프로젝트를 통해 협업 능력과 데이터 처리 역량을 강화했습니다.<br />
+> 특히 재난 정보 시각화 R_Dash 프로젝트를 통해 협업 능력과 데이터 처리 역량을 강화했습니다.<br />
 > 앞으로도 끊임없이 배우며, 사용자에게 가치를 주는 서비스를 만드는 개발자가 되고 싶습니다.
 
 
@@ -43,28 +43,22 @@
 
 ## 1. 🛫 CarPick
 
-> 여행일정 추천 _(내일배움캠프 - 4416조 팀프로젝트)_
+> 자동차 브랜드 통합 웹사이트 _(내일배움캠프 - Synergy팀프로젝트)_
 >
-> - 개발기간 : 2022.07.07-09.02
-> - 핵심 역할 : 팀장, TSP 알고리즘을 활용한 여행추천 알고리즘 작성, React를 사용한 SPA 개발
->
+> - 개발기간 : 2025.05.19 ~ 2025.07.11
+> - 핵심 역할 :
+>   - 다양한 브랜드 차량 api를 활용한 **차량 정보 조회 및 검색**,
+>   - 각 지역에 위치한 리테일러 api를 수집한 **리테일러 조회 및 검색**
 >> Back-end
->> - Language : python3  
->> - Skill : Django, Django-rest-framework, PostgreSQL
->> 
->> [프로젝트 상세 설명(Back-end)](https://github.com/kimphysicsman/MyLittelTrip_backend)  
+>> - Language : Python, Oracle, Spring
 >
 >> Front-end
->> - Language : javascript
->> - Skill : React.js
->>
->> [프로젝트 상세 설명(Front-end)](https://github.com/kimphysicsman/MyLittelTrip_frontend_react)
-
+>> - Language : CSS / javascript
 <br />
 
 ## 2. 👞 MyLittleShoes
 
-> 신발 스타일링 _(내일배움캠프 - 4520조 팀프로젝트)_
+>  _(내일배움캠프 - 4520조 팀프로젝트)_
 >
 > - 개발기간 : 2022.06.28-07.06
 > - 핵심 역할 : 팀장, Generative model를 이용한 신발 스타일링 기능 구현
